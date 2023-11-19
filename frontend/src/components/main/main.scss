@@ -1,0 +1,26 @@
+.main {
+    margin: 25px auto;
+    width: 100vw;
+    min-height: calc(100vh - 100px);
+    max-width: 1200px;
+    background-color: rgb(237, 237, 237);
+    box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 2rem;
+ 
+    .main-stack {
+       width: 600px;
+       max-width: 95%;
+       margin-top: 1rem;
+    }
+ 
+    img {
+     max-width: 95%;
+     margin: 1rem 0;
+     border-radius: 32px;
+    }
+ }
