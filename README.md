@@ -1,2 +1,3 @@
 AI Image Generator
-## OpenAI, SCSS, REACT, EXPRESS, NODE JS
+# MERN Project
+## OpenAI, SCSS, REACT, EXPRESS, NODE JS, MONGODB
